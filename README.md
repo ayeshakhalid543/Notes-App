@@ -4,23 +4,23 @@ NoteApp is a simple and secure note-taking application that allows users to **ad
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔐 **Authentication**
+-  **Authentication**
   - Sign Up: Create a new account using email and password
   - Login: Access your personal notes securely
   - Logout: End your session securely
 
-- 🗒️ **Note Management**
+-  **Note Management**
   - **Add Notes**: Create new notes with a title and description
   - **Edit Notes**: Modify existing notes
   - **Delete Notes**: Remove unwanted notes
 
-- 💡 Clean and responsive user interface
+-  Clean and responsive user interface
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 > (Customize according to your stack)
 
@@ -31,7 +31,7 @@ NoteApp is a simple and secure note-taking application that allows users to **ad
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -59,7 +59,7 @@ python app.py
 
 ---
 
-## 📁 Folder Structure (example)
+##  Folder Structure (example)
 
 ```
 noteapp/
@@ -77,28 +77,28 @@ noteapp/
 
 ---
 
-## ✅ Future Improvements
+##  Future Improvements
 
-- 🔍 Search notes
-- 🌙 Dark mode
-- 📌 Pin important notes
-- ☁️ Cloud sync
-- 📝 Rich text editor
+-  Search notes
+-  Dark mode
+-  Pin important notes
+-  Cloud sync
+   Rich text editor
 
 ---
 
-## 🙌 Contributing
+##  Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📧 Contact
+##  Contact
 
 For feedback, questions, or suggestions, contact: **yourname@example.com**
